@@ -48,7 +48,7 @@ Multiple web vulnerabilities were identified and exploited, including SQL
 Injection, Cross-Site Scripting (XSS), and weak authentication mechanisms.
 
 - SQL Injection (DVWA)  
-  [Exploitation/Web/DVWA/SQL-Injection.md](./Exploitation/Web/DVWA/SQL-Injection.md)
+  [Exploitation/Web/DVWA/SQL-Injection.md](./Exploitation/Web/DVWA/SQL%20Injection.md)
 
 - Cross-Site Scripting (DVWA)  
   [Exploitation/Web/DVWA/XSS.md](./Exploitation/Web/DVWA/XSS.md)
